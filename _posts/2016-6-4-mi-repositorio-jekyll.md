@@ -2,7 +2,7 @@
 layout: post
 title: Las mejores fotos e imagenes en un solo lugar!
 ---
-##Paisajes
+##Seccion
 
 
 ![p1]({{https://github.com/ALEJANDROALEJANDROSANCHEZ/jekyll.github.io}}/images/P1.png)
