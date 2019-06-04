@@ -5,10 +5,10 @@ title: Las mejores fotos e imagenes en un solo lugar!
 ##Paisajes
 
 
-![_config.yml]({{ site.baseurl }}/images/p1.png)
-![_config.yml]({{ site.baseurl }}/images/p2.png)
-![_config.yml]({{ site.baseurl }}/images/p3.png)
-![_config.yml]({{ site.baseurl }}/images/p4.png)
-![_config.yml]({{ site.baseurl }}/images/p5.png)
+![p1]({{ site.baseurl }}/images/P1.png)
+![p2]({{ site.baseurl }}/images/P2.png)
+![p3]({{ site.baseurl }}/images/P3.png)
+![p4]({{ site.baseurl }}/images/P4.png)
+![p5]({{ site.baseurl }}/images/P5.png)
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
