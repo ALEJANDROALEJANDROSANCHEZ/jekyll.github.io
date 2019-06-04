@@ -5,7 +5,7 @@ title: Las mejores fotos e imagenes en un solo lugar!
 ##Paisajes
 
 
-![p1]({{ site.baseurl }}/images/P1.png)
+![p1]({{https://github.com/ALEJANDROALEJANDROSANCHEZ/jekyll.github.io}}/images/P1.png)
 ![p2]({{ site.baseurl }}/images/P2.png)
 ![p3]({{ site.baseurl }}/images/P3.png)
 ![p4]({{ site.baseurl }}/images/P4.png)
